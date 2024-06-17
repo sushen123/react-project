@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+input {
+    padding: 20px;
+    width: 400px;
+    margin-right: 20px;
+
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aquamarine;
+}
+

@@ -1,0 +1,33 @@
+
+
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.otpbox {
+    width: 30px;
+    height: 30px;
+    margin: 20px;
+
+}
+
+.login {
+    display :block;
+    height: 30px;
+   background-color: blanchedalmond;
+    align-self: center;
+    cursor: pointer;
+   margin-left: 133px;
+
+}
+
+.login:hover {
+    opacity: 0.8;
+}
+
+
+.login:active {
+    background-color: blue;
+}
